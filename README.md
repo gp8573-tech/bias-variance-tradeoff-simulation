@@ -26,6 +26,8 @@ Error = Bias^2 + Variance + Irreducible Error
 - Low-degree models : High bias, Low variance(Underfitting)
 - High-degree models : Low bias, High variance(Overfitting)
 - Optimal model balances both
+- The simulation confirm that bias decreases and variance increases with model complexity.
+- The minimum total error occurs at an intermediate model complexity.
 ## Tools Used
 - Python
 - NumPy
