@@ -22,6 +22,10 @@ Error = Bias^2 + Variance + Irreducible Error
     - Bias^2
     - Variance
   5.Visualize results
+  <img width="684" height="448" alt="Generated data" src="https://github.com/user-attachments/assets/7677dd70-a91a-4593-98c8-c47167b9e405" />
+  <img width="620" height="440" alt="Model complexity comparison" src="https://github.com/user-attachments/assets/80ab3b23-2001-4bd5-8ed7-50c235883ff5" />
+  <img width="718" height="462" alt="Bias-Variance Tradeoff" src="https://github.com/user-attachments/assets/35ee901e-ce66-4dc7-9186-b5fe171bcd8c" />
+ 
 ## Results 
 - Low-degree models : High bias, Low variance(Underfitting)
 - High-degree models : Low bias, High variance(Overfitting)
