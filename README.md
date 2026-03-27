@@ -29,7 +29,7 @@ Error = Bias^2 + Variance + Irreducible Error
 ## Tools Used
 - Python
 - NumPy
-- PAndas
+- Pandas
 - Matplotlib
 - Jupyter Notebook
 
